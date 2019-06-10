@@ -1,0 +1,805 @@
+All Trains|July 2016 to April 2019|1086431994
+Southern Highlands Line|July 2016 to April 2019|2937760
+South Coast Line|July 2016 to April 2019|28134123
+Hunter Line|July 2016 to April 2019|2645173
+Central Coast Newcastle Line|July 2016 to April 2019|54382165
+Blue Mountains Line|July 2016 to April 2019|28358313
+T9 Northern Line|July 2016 to April 2019|234120
+T8 Airport and South Line|July 2016 to April 2019|64753186
+T7 Olympic Park Line|July 2016 to April 2019|4910597
+T6 Carlingford Line|July 2016 to April 2019|1506781
+T5 Cumberland Line|July 2016 to April 2019|18786072
+T4 Eastern Suburbs and Illawarra Line|July 2016 to April 2019|190180713
+T3 Bankstown Line|July 2016 to April 2019|80877839
+T2 Leppington Line|July 2016 to April 2019|47113603
+T2 Inner West Line|July 2016 to April 2019|34446816
+T2 Airport, Inner West and South Line|July 2016 to April 2019|123441606
+T1 Western Line|July 2016 to April 2019|72234975
+Station Link|July 2016 to April 2019|4047576
+T1 Northern Line|July 2016 to April 2019|59070659
+T1 North Shore Line|July 2016 to April 2019|67387291
+T1 North Shore, Northern and Western Line|July 2016 to April 2019|200982626
+All Trains|April 2019|32790140
+Southern Highlands Line|April 2019|92831
+South Coast Line|April 2019|866907
+Hunter Line|April 2019|93002
+Central Coast Newcastle Line|April 2019|1537602
+Blue Mountains Line|April 2019|739352
+T9 Northern Line|April 2019|234120
+T8 Airport and South Line|April 2019|3758958
+T7 Olympic Park Line|April 2019|136014
+T6 Carlingford Line|April 2019|46691
+T5 Cumberland Line|April 2019|633747
+T4 Eastern Suburbs and Illawarra Line|April 2019|5429377
+T3 Bankstown Line|April 2019|2587770
+T2 Leppington Line|April 2019|2672660
+T2 Inner West Line|April 2019|1931175
+T2 Airport, Inner West and South Line|April 2019|None
+T1 Western Line|April 2019|4473634
+Station Link|April 2019|578904
+T1 Northern Line|April 2019|2079780
+T1 North Shore Line|April 2019|4897616
+T1 North Shore, Northern and Western Line|April 2019|None
+All Trains|March 2019|36530266
+Southern Highlands Line|March 2019|97084
+South Coast Line|March 2019|928513
+Hunter Line|March 2019|102975
+Central Coast Newcastle Line|March 2019|1678778
+Blue Mountains Line|March 2019|922377
+T9 Northern Line|March 2019|None
+T8 Airport and South Line|March 2019|4194942
+T7 Olympic Park Line|March 2019|156682
+T6 Carlingford Line|March 2019|54260
+T5 Cumberland Line|March 2019|730974
+T4 Eastern Suburbs and Illawarra Line|March 2019|6160074
+T3 Bankstown Line|March 2019|2787664
+T2 Leppington Line|March 2019|3024914
+T2 Inner West Line|March 2019|2139598
+T2 Airport, Inner West and South Line|March 2019|None
+T1 Western Line|March 2019|4773154
+Station Link|March 2019|704873
+T1 Northern Line|March 2019|2559703
+T1 North Shore Line|March 2019|5513701
+T1 North Shore, Northern and Western Line|March 2019|None
+All Trains|February 2019|32218764
+Southern Highlands Line|February 2019|82657
+South Coast Line|February 2019|811446
+Hunter Line|February 2019|83697
+Central Coast Newcastle Line|February 2019|1535007
+Blue Mountains Line|February 2019|774389
+T9 Northern Line|February 2019|None
+T8 Airport and South Line|February 2019|3686238
+T7 Olympic Park Line|February 2019|146295
+T6 Carlingford Line|February 2019|43516
+T5 Cumberland Line|February 2019|555765
+T4 Eastern Suburbs and Illawarra Line|February 2019|5706526
+T3 Bankstown Line|February 2019|2369674
+T2 Leppington Line|February 2019|2670534
+T2 Inner West Line|February 2019|2124372
+T2 Airport, Inner West and South Line|February 2019|None
+T1 Western Line|February 2019|3963853
+Station Link|February 2019|550566
+T1 Northern Line|February 2019|2235404
+T1 North Shore Line|February 2019|4878825
+T1 North Shore, Northern and Western Line|February 2019|None
+All Trains|January 2019|29925564
+Southern Highlands Line|January 2019|82987
+South Coast Line|January 2019|778741
+Hunter Line|January 2019|63934
+Central Coast Newcastle Line|January 2019|1301348
+Blue Mountains Line|January 2019|776761
+T9 Northern Line|January 2019|None
+T8 Airport and South Line|January 2019|3573790
+T7 Olympic Park Line|January 2019|154422
+T6 Carlingford Line|January 2019|38887
+T5 Cumberland Line|January 2019|565270
+T4 Eastern Suburbs and Illawarra Line|January 2019|5420202
+T3 Bankstown Line|January 2019|2267984
+T2 Leppington Line|January 2019|2490605
+T2 Inner West Line|January 2019|1833258
+T2 Airport, Inner West and South Line|January 2019|None
+T1 Western Line|January 2019|3972179
+Station Link|January 2019|470502
+T1 Northern Line|January 2019|1967396
+T1 North Shore Line|January 2019|4167298
+T1 North Shore, Northern and Western Line|January 2019|None
+All Trains|December 2018|30124456
+Southern Highlands Line|December 2018|83581
+South Coast Line|December 2018|724355
+Hunter Line|December 2018|64768
+Central Coast Newcastle Line|December 2018|1328654
+Blue Mountains Line|December 2018|754761
+T9 Northern Line|December 2018|None
+T8 Airport and South Line|December 2018|3561975
+T7 Olympic Park Line|December 2018|121259
+T6 Carlingford Line|December 2018|39575
+T5 Cumberland Line|December 2018|664351
+T4 Eastern Suburbs and Illawarra Line|December 2018|5240014
+T3 Bankstown Line|December 2018|2484666
+T2 Leppington Line|December 2018|2400233
+T2 Inner West Line|December 2018|1848313
+T2 Airport, Inner West and South Line|December 2018|None
+T1 Western Line|December 2018|3901481
+Station Link|December 2018|458579
+T1 Northern Line|December 2018|2068153
+T1 North Shore Line|December 2018|4379738
+T1 North Shore, Northern and Western Line|December 2018|None
+All Trains|November 2018|34803322
+Southern Highlands Line|November 2018|87648
+South Coast Line|November 2018|834716
+Hunter Line|November 2018|82094
+Central Coast Newcastle Line|November 2018|1646541
+Blue Mountains Line|November 2018|906035
+T9 Northern Line|November 2018|None
+T8 Airport and South Line|November 2018|4046364
+T7 Olympic Park Line|November 2018|154347
+T6 Carlingford Line|November 2018|49401
+T5 Cumberland Line|November 2018|609037
+T4 Eastern Suburbs and Illawarra Line|November 2018|6167588
+T3 Bankstown Line|November 2018|2479510
+T2 Leppington Line|November 2018|2892188
+T2 Inner West Line|November 2018|2214485
+T2 Airport, Inner West and South Line|November 2018|None
+T1 Western Line|November 2018|4535463
+Station Link|November 2018|623876
+T1 Northern Line|November 2018|2403585
+T1 North Shore Line|November 2018|5070444
+T1 North Shore, Northern and Western Line|November 2018|None
+All Trains|October 2018|34501650
+Southern Highlands Line|October 2018|95565
+South Coast Line|October 2018|866541
+Hunter Line|October 2018|77807
+Central Coast Newcastle Line|October 2018|1552081
+Blue Mountains Line|October 2018|877520
+T9 Northern Line|October 2018|None
+T8 Airport and South Line|October 2018|3982834
+T7 Olympic Park Line|October 2018|150042
+T6 Carlingford Line|October 2018|48802
+T5 Cumberland Line|October 2018|664320
+T4 Eastern Suburbs and Illawarra Line|October 2018|6016923
+T3 Bankstown Line|October 2018|2606786
+T2 Leppington Line|October 2018|2922618
+T2 Inner West Line|October 2018|2123209
+T2 Airport, Inner West and South Line|October 2018|None
+T1 Western Line|October 2018|4474766
+Station Link|October 2018|652634
+T1 Northern Line|October 2018|2389213
+T1 North Shore Line|October 2018|4999989
+T1 North Shore, Northern and Western Line|October 2018|None
+All Trains|September 2018|33021482
+Southern Highlands Line|September 2018|91584
+South Coast Line|September 2018|802914
+Hunter Line|September 2018|79527
+Central Coast Newcastle Line|September 2018|1656632
+Blue Mountains Line|September 2018|801534
+T9 Northern Line|September 2018|None
+T8 Airport and South Line|September 2018|3714109
+T7 Olympic Park Line|September 2018|140078
+T6 Carlingford Line|September 2018|47903
+T5 Cumberland Line|September 2018|630894
+T4 Eastern Suburbs and Illawarra Line|September 2018|5588691
+T3 Bankstown Line|September 2018|2523285
+T2 Leppington Line|September 2018|2845070
+T2 Inner West Line|September 2018|2035210
+T2 Airport, Inner West and South Line|September 2018|None
+T1 Western Line|September 2018|4335764
+Station Link|September 2018|7642
+T1 Northern Line|September 2018|4327986
+T1 North Shore Line|September 2018|3392659
+T1 North Shore, Northern and Western Line|September 2018|None
+All Trains|August 2018|35713800
+Southern Highlands Line|August 2018|89374
+South Coast Line|August 2018|870553
+Hunter Line|August 2018|87961
+Central Coast Newcastle Line|August 2018|1790498
+Blue Mountains Line|August 2018|945936
+T9 Northern Line|August 2018|None
+T8 Airport and South Line|August 2018|4052295
+T7 Olympic Park Line|August 2018|166661
+T6 Carlingford Line|August 2018|51917
+T5 Cumberland Line|August 2018|694746
+T4 Eastern Suburbs and Illawarra Line|August 2018|6156207
+T3 Bankstown Line|August 2018|2642399
+T2 Leppington Line|August 2018|3040757
+T2 Inner West Line|August 2018|2203475
+T2 Airport, Inner West and South Line|August 2018|None
+T1 Western Line|August 2018|4692613
+Station Link|August 2018|None
+T1 Northern Line|August 2018|4671203
+T1 North Shore Line|August 2018|3557205
+T1 North Shore, Northern and Western Line|August 2018|None
+All Trains|July 2018|33053594
+Southern Highlands Line|July 2018|87469
+South Coast Line|July 2018|809096
+Hunter Line|July 2018|75299
+Central Coast Newcastle Line|July 2018|1663602
+Blue Mountains Line|July 2018|871337
+T9 Northern Line|July 2018|None
+T8 Airport and South Line|July 2018|3766919
+T7 Olympic Park Line|July 2018|174387
+T6 Carlingford Line|July 2018|44210
+T5 Cumberland Line|July 2018|620239
+T4 Eastern Suburbs and Illawarra Line|July 2018|5731418
+T3 Bankstown Line|July 2018|2502320
+T2 Leppington Line|July 2018|2811071
+T2 Inner West Line|July 2018|2036172
+T2 Airport, Inner West and South Line|July 2018|None
+T1 Western Line|July 2018|4153993
+Station Link|July 2018|None
+T1 Northern Line|July 2018|4314306
+T1 North Shore Line|July 2018|3391756
+T1 North Shore, Northern and Western Line|July 2018|None
+All Trains|June 2018|32604345
+Southern Highlands Line|June 2018|85016
+South Coast Line|June 2018|781252
+Hunter Line|June 2018|69392
+Central Coast Newcastle Line|June 2018|1554709
+Blue Mountains Line|June 2018|852652
+T9 Northern Line|June 2018|None
+T8 Airport and South Line|June 2018|3784036
+T7 Olympic Park Line|June 2018|138319
+T6 Carlingford Line|June 2018|42500
+T5 Cumberland Line|June 2018|614786
+T4 Eastern Suburbs and Illawarra Line|June 2018|5568143
+T3 Bankstown Line|June 2018|2473217
+T2 Leppington Line|June 2018|2792530
+T2 Inner West Line|June 2018|1991123
+T2 Airport, Inner West and South Line|June 2018|None
+T1 Western Line|June 2018|4224640
+Station Link|June 2018|None
+T1 Northern Line|June 2018|4259364
+T1 North Shore Line|June 2018|3372666
+T1 North Shore, Northern and Western Line|June 2018|None
+All Trains|May 2018|36322565
+Southern Highlands Line|May 2018|92882
+South Coast Line|May 2018|909741
+Hunter Line|May 2018|95492
+Central Coast Newcastle Line|May 2018|1857788
+Blue Mountains Line|May 2018|943481
+T9 Northern Line|May 2018|None
+T8 Airport and South Line|May 2018|4097909
+T7 Olympic Park Line|May 2018|144850
+T6 Carlingford Line|May 2018|49563
+T5 Cumberland Line|May 2018|640052
+T4 Eastern Suburbs and Illawarra Line|May 2018|6259045
+T3 Bankstown Line|May 2018|2744282
+T2 Leppington Line|May 2018|3077432
+T2 Inner West Line|May 2018|2255872
+T2 Airport, Inner West and South Line|May 2018|None
+T1 Western Line|May 2018|4690558
+Station Link|May 2018|None
+T1 Northern Line|May 2018|4825723
+T1 North Shore Line|May 2018|3637895
+T1 North Shore, Northern and Western Line|May 2018|None
+All Trains|April 2018|31512166
+Southern Highlands Line|April 2018|88338
+South Coast Line|April 2018|839874
+Hunter Line|April 2018|81222
+Central Coast Newcastle Line|April 2018|1613933
+Blue Mountains Line|April 2018|836156
+T9 Northern Line|April 2018|None
+T8 Airport and South Line|April 2018|3495380
+T7 Olympic Park Line|April 2018|124595
+T6 Carlingford Line|April 2018|40546
+T5 Cumberland Line|April 2018|673998
+T4 Eastern Suburbs and Illawarra Line|April 2018|5480574
+T3 Bankstown Line|April 2018|2458040
+T2 Leppington Line|April 2018|2642909
+T2 Inner West Line|April 2018|1905247
+T2 Airport, Inner West and South Line|April 2018|None
+T1 Western Line|April 2018|3835241
+Station Link|April 2018|None
+T1 Northern Line|April 2018|4249586
+T1 North Shore Line|April 2018|3146527
+T1 North Shore, Northern and Western Line|April 2018|None
+All Trains|March 2018|34967488
+Southern Highlands Line|March 2018|89619
+South Coast Line|March 2018|893200
+Hunter Line|March 2018|91835
+Central Coast Newcastle Line|March 2018|1755310
+Blue Mountains Line|March 2018|933844
+T9 Northern Line|March 2018|None
+T8 Airport and South Line|March 2018|4087605
+T7 Olympic Park Line|March 2018|147640
+T6 Carlingford Line|March 2018|49446
+T5 Cumberland Line|March 2018|612573
+T4 Eastern Suburbs and Illawarra Line|March 2018|5910852
+T3 Bankstown Line|March 2018|2565134
+T2 Leppington Line|March 2018|2971373
+T2 Inner West Line|March 2018|2108477
+T2 Airport, Inner West and South Line|March 2018|None
+T1 Western Line|March 2018|4608048
+Station Link|March 2018|None
+T1 Northern Line|March 2018|4555313
+T1 North Shore Line|March 2018|3587219
+T1 North Shore, Northern and Western Line|March 2018|None
+All Trains|February 2018|30036091
+Southern Highlands Line|February 2018|77210
+South Coast Line|February 2018|786853
+Hunter Line|February 2018|73540
+Central Coast Newcastle Line|February 2018|1580520
+Blue Mountains Line|February 2018|816549
+T9 Northern Line|February 2018|None
+T8 Airport and South Line|February 2018|3391433
+T7 Olympic Park Line|February 2018|121135
+T6 Carlingford Line|February 2018|40525
+T5 Cumberland Line|February 2018|528840
+T4 Eastern Suburbs and Illawarra Line|February 2018|5475396
+T3 Bankstown Line|February 2018|2108255
+T2 Leppington Line|February 2018|2443288
+T2 Inner West Line|February 2018|1873548
+T2 Airport, Inner West and South Line|February 2018|None
+T1 Western Line|February 2018|3804267
+Station Link|February 2018|None
+T1 Northern Line|February 2018|3897128
+T1 North Shore Line|February 2018|3017604
+T1 North Shore, Northern and Western Line|February 2018|None
+All Trains|January 2018|28186866
+Southern Highlands Line|January 2018|76595
+South Coast Line|January 2018|744648
+Hunter Line|January 2018|60486
+Central Coast Newcastle Line|January 2018|1170887
+Blue Mountains Line|January 2018|747056
+T9 Northern Line|January 2018|None
+T8 Airport and South Line|January 2018|3355408
+T7 Olympic Park Line|January 2018|105927
+T6 Carlingford Line|January 2018|33484
+T5 Cumberland Line|January 2018|455382
+T4 Eastern Suburbs and Illawarra Line|January 2018|5189468
+T3 Bankstown Line|January 2018|2107988
+T2 Leppington Line|January 2018|2366225
+T2 Inner West Line|January 2018|1750045
+T2 Airport, Inner West and South Line|January 2018|None
+T1 Western Line|January 2018|3556028
+Station Link|January 2018|None
+T1 Northern Line|January 2018|3656341
+T1 North Shore Line|January 2018|2810898
+T1 North Shore, Northern and Western Line|January 2018|None
+All Trains|December 2017|29467889
+Southern Highlands Line|December 2017|78187
+South Coast Line|December 2017|731765
+Hunter Line|December 2017|85854
+Central Coast Newcastle Line|December 2017|1366413
+Blue Mountains Line|December 2017|772671
+T9 Northern Line|December 2017|None
+T8 Airport and South Line|December 2017|3522115
+T7 Olympic Park Line|December 2017|134953
+T6 Carlingford Line|December 2017|40207
+T5 Cumberland Line|December 2017|525271
+T4 Eastern Suburbs and Illawarra Line|December 2017|5393407
+T3 Bankstown Line|December 2017|2196692
+T2 Leppington Line|December 2017|2569495
+T2 Inner West Line|December 2017|1714624
+T2 Airport, Inner West and South Line|December 2017|None
+T1 Western Line|December 2017|3536461
+Station Link|December 2017|None
+T1 Northern Line|December 2017|3847959
+T1 North Shore Line|December 2017|2951815
+T1 North Shore, Northern and Western Line|December 2017|None
+All Trains|November 2017|33457124
+Southern Highlands Line|November 2017|96344
+South Coast Line|November 2017|822018
+Hunter Line|November 2017|77848
+Central Coast Newcastle Line|November 2017|1786853
+Blue Mountains Line|November 2017|880061
+T9 Northern Line|November 2017|None
+T8 Airport and South Line|November 2017|680876
+T7 Olympic Park Line|November 2017|156758
+T6 Carlingford Line|November 2017|48258
+T5 Cumberland Line|November 2017|541720
+T4 Eastern Suburbs and Illawarra Line|November 2017|5862113
+T3 Bankstown Line|November 2017|2397793
+T2 Leppington Line|November 2017|479701
+T2 Inner West Line|November 2017|358613
+T2 Airport, Inner West and South Line|November 2017|6685045
+T1 Western Line|November 2017|702832
+Station Link|November 2017|None
+T1 Northern Line|November 2017|762516
+T1 North Shore Line|November 2017|613436
+T1 North Shore, Northern and Western Line|November 2017|10504339
+All Trains|October 2017|32910234
+Southern Highlands Line|October 2017|95359
+South Coast Line|October 2017|865915
+Hunter Line|October 2017|71778
+Central Coast Newcastle Line|October 2017|1661027
+Blue Mountains Line|October 2017|855410
+T9 Northern Line|October 2017|None
+T8 Airport and South Line|October 2017|None
+T7 Olympic Park Line|October 2017|147775
+T6 Carlingford Line|October 2017|45113
+T5 Cumberland Line|October 2017|546300
+T4 Eastern Suburbs and Illawarra Line|October 2017|5806692
+T3 Bankstown Line|October 2017|2340497
+T2 Leppington Line|October 2017|None
+T2 Inner West Line|October 2017|None
+T2 Airport, Inner West and South Line|October 2017|7890830
+T1 Western Line|October 2017|None
+Station Link|October 2017|None
+T1 Northern Line|October 2017|None
+T1 North Shore Line|October 2017|None
+T1 North Shore, Northern and Western Line|October 2017|12583538
+All Trains|September 2017|32067318
+Southern Highlands Line|September 2017|98841
+South Coast Line|September 2017|826388
+Hunter Line|September 2017|70902
+Central Coast Newcastle Line|September 2017|1666017
+Blue Mountains Line|September 2017|791000
+T9 Northern Line|September 2017|None
+T8 Airport and South Line|September 2017|None
+T7 Olympic Park Line|September 2017|132425
+T6 Carlingford Line|September 2017|45107
+T5 Cumberland Line|September 2017|504536
+T4 Eastern Suburbs and Illawarra Line|September 2017|5612186
+T3 Bankstown Line|September 2017|2258011
+T2 Leppington Line|September 2017|None
+T2 Inner West Line|September 2017|None
+T2 Airport, Inner West and South Line|September 2017|7653537
+T1 Western Line|September 2017|None
+Station Link|September 2017|None
+T1 Northern Line|September 2017|None
+T1 North Shore Line|September 2017|None
+T1 North Shore, Northern and Western Line|September 2017|12408368
+All Trains|August 2017|34285607
+Southern Highlands Line|August 2017|90644
+South Coast Line|August 2017|884103
+Hunter Line|August 2017|78450
+Central Coast Newcastle Line|August 2017|1771569
+Blue Mountains Line|August 2017|888250
+T9 Northern Line|August 2017|None
+T8 Airport and South Line|August 2017|None
+T7 Olympic Park Line|August 2017|129080
+T6 Carlingford Line|August 2017|51068
+T5 Cumberland Line|August 2017|570979
+T4 Eastern Suburbs and Illawarra Line|August 2017|5952718
+T3 Bankstown Line|August 2017|2412132
+T2 Leppington Line|August 2017|None
+T2 Inner West Line|August 2017|None
+T2 Airport, Inner West and South Line|August 2017|8170171
+T1 Western Line|August 2017|None
+Station Link|August 2017|None
+T1 Northern Line|August 2017|None
+T1 North Shore Line|August 2017|None
+T1 North Shore, Northern and Western Line|August 2017|13286443
+All Trains|July 2017|31070534
+Southern Highlands Line|July 2017|90145
+South Coast Line|July 2017|765376
+Hunter Line|July 2017|68856
+Central Coast Newcastle Line|July 2017|1656213
+Blue Mountains Line|July 2017|851035
+T9 Northern Line|July 2017|None
+T8 Airport and South Line|July 2017|None
+T7 Olympic Park Line|July 2017|180606
+T6 Carlingford Line|July 2017|43435
+T5 Cumberland Line|July 2017|462800
+T4 Eastern Suburbs and Illawarra Line|July 2017|5424015
+T3 Bankstown Line|July 2017|2116382
+T2 Leppington Line|July 2017|None
+T2 Inner West Line|July 2017|None
+T2 Airport, Inner West and South Line|July 2017|7491173
+T1 Western Line|July 2017|None
+Station Link|July 2017|None
+T1 Northern Line|July 2017|None
+T1 North Shore Line|July 2017|None
+T1 North Shore, Northern and Western Line|July 2017|11920498
+All Trains|June 2017|31706870
+Southern Highlands Line|June 2017|84932
+South Coast Line|June 2017|834078
+Hunter Line|June 2017|71654
+Central Coast Newcastle Line|June 2017|1615954
+Blue Mountains Line|June 2017|848670
+T9 Northern Line|June 2017|None
+T8 Airport and South Line|June 2017|None
+T7 Olympic Park Line|June 2017|150401
+T6 Carlingford Line|June 2017|43952
+T5 Cumberland Line|June 2017|505810
+T4 Eastern Suburbs and Illawarra Line|June 2017|5414010
+T3 Bankstown Line|June 2017|2396639
+T2 Leppington Line|June 2017|None
+T2 Inner West Line|June 2017|None
+T2 Airport, Inner West and South Line|June 2017|7544749
+T1 Western Line|June 2017|None
+Station Link|June 2017|None
+T1 Northern Line|June 2017|None
+T1 North Shore Line|June 2017|None
+T1 North Shore, Northern and Western Line|June 2017|12196021
+All Trains|May 2017|34863010
+Southern Highlands Line|May 2017|89103
+South Coast Line|May 2017|955654
+Hunter Line|May 2017|92524
+Central Coast Newcastle Line|May 2017|1850728
+Blue Mountains Line|May 2017|921443
+T9 Northern Line|May 2017|None
+T8 Airport and South Line|May 2017|None
+T7 Olympic Park Line|May 2017|169127
+T6 Carlingford Line|May 2017|48060
+T5 Cumberland Line|May 2017|548828
+T4 Eastern Suburbs and Illawarra Line|May 2017|5964576
+T3 Bankstown Line|May 2017|2608759
+T2 Leppington Line|May 2017|None
+T2 Inner West Line|May 2017|None
+T2 Airport, Inner West and South Line|May 2017|8102571
+T1 Western Line|May 2017|None
+Station Link|May 2017|None
+T1 Northern Line|May 2017|None
+T1 North Shore Line|May 2017|None
+T1 North Shore, Northern and Western Line|May 2017|13511637
+All Trains|April 2017|28745729
+Southern Highlands Line|April 2017|79746
+South Coast Line|April 2017|819514
+Hunter Line|April 2017|82155
+Central Coast Newcastle Line|April 2017|1518790
+Blue Mountains Line|April 2017|791234
+T9 Northern Line|April 2017|None
+T8 Airport and South Line|April 2017|None
+T7 Olympic Park Line|April 2017|183290
+T6 Carlingford Line|April 2017|37668
+T5 Cumberland Line|April 2017|451821
+T4 Eastern Suburbs and Illawarra Line|April 2017|5057612
+T3 Bankstown Line|April 2017|2196738
+T2 Leppington Line|April 2017|None
+T2 Inner West Line|April 2017|None
+T2 Airport, Inner West and South Line|April 2017|6796540
+T1 Western Line|April 2017|None
+Station Link|April 2017|None
+T1 Northern Line|April 2017|None
+T1 North Shore Line|April 2017|None
+T1 North Shore, Northern and Western Line|April 2017|10730621
+All Trains|March 2017|34566385
+Southern Highlands Line|March 2017|94063
+South Coast Line|March 2017|966798
+Hunter Line|March 2017|95991
+Central Coast Newcastle Line|March 2017|1792087
+Blue Mountains Line|March 2017|935132
+T9 Northern Line|March 2017|None
+T8 Airport and South Line|March 2017|None
+T7 Olympic Park Line|March 2017|164670
+T6 Carlingford Line|March 2017|50449
+T5 Cumberland Line|March 2017|547393
+T4 Eastern Suburbs and Illawarra Line|March 2017|6104376
+T3 Bankstown Line|March 2017|2541742
+T2 Leppington Line|March 2017|None
+T2 Inner West Line|March 2017|None
+T2 Airport, Inner West and South Line|March 2017|7845149
+T1 Western Line|March 2017|None
+Station Link|March 2017|None
+T1 Northern Line|March 2017|None
+T1 North Shore Line|March 2017|None
+T1 North Shore, Northern and Western Line|March 2017|13428535
+All Trains|February 2017|28767036
+Southern Highlands Line|February 2017|76305
+South Coast Line|February 2017|782819
+Hunter Line|February 2017|71734
+Central Coast Newcastle Line|February 2017|1522492
+Blue Mountains Line|February 2017|760138
+T9 Northern Line|February 2017|None
+T8 Airport and South Line|February 2017|None
+T7 Olympic Park Line|February 2017|125612
+T6 Carlingford Line|February 2017|38521
+T5 Cumberland Line|February 2017|443898
+T4 Eastern Suburbs and Illawarra Line|February 2017|5164393
+T3 Bankstown Line|February 2017|2076614
+T2 Leppington Line|February 2017|None
+T2 Inner West Line|February 2017|None
+T2 Airport, Inner West and South Line|February 2017|6689755
+T1 Western Line|February 2017|None
+Station Link|February 2017|None
+T1 Northern Line|February 2017|None
+T1 North Shore Line|February 2017|None
+T1 North Shore, Northern and Western Line|February 2017|11014755
+All Trains|January 2017|26735422
+Southern Highlands Line|January 2017|75775
+South Coast Line|January 2017|732347
+Hunter Line|January 2017|65123
+Central Coast Newcastle Line|January 2017|1402763
+Blue Mountains Line|January 2017|727344
+T9 Northern Line|January 2017|None
+T8 Airport and South Line|January 2017|None
+T7 Olympic Park Line|January 2017|108426
+T6 Carlingford Line|January 2017|33673
+T5 Cumberland Line|January 2017|403936
+T4 Eastern Suburbs and Illawarra Line|January 2017|4829357
+T3 Bankstown Line|January 2017|2022577
+T2 Leppington Line|January 2017|None
+T2 Inner West Line|January 2017|None
+T2 Airport, Inner West and South Line|January 2017|6423779
+T1 Western Line|January 2017|None
+Station Link|January 2017|None
+T1 Northern Line|January 2017|None
+T1 North Shore Line|January 2017|None
+T1 North Shore, Northern and Western Line|January 2017|9910322
+All Trains|December 2016|28189584
+Southern Highlands Line|December 2016|77483
+South Coast Line|December 2016|783913
+Hunter Line|December 2016|64427
+Central Coast Newcastle Line|December 2016|1452925
+Blue Mountains Line|December 2016|764414
+T9 Northern Line|December 2016|None
+T8 Airport and South Line|December 2016|None
+T7 Olympic Park Line|December 2016|125156
+T6 Carlingford Line|December 2016|37497
+T5 Cumberland Line|December 2016|429861
+T4 Eastern Suburbs and Illawarra Line|December 2016|5266150
+T3 Bankstown Line|December 2016|2119035
+T2 Leppington Line|December 2016|None
+T2 Inner West Line|December 2016|None
+T2 Airport, Inner West and South Line|December 2016|6661998
+T1 Western Line|December 2016|None
+Station Link|December 2016|None
+T1 Northern Line|December 2016|None
+T1 North Shore Line|December 2016|None
+T1 North Shore, Northern and Western Line|December 2016|10406725
+All Trains|November 2016|31318279
+Southern Highlands Line|November 2016|82453
+South Coast Line|November 2016|862003
+Hunter Line|November 2016|76784
+Central Coast Newcastle Line|November 2016|1659951
+Blue Mountains Line|November 2016|827575
+T9 Northern Line|November 2016|None
+T8 Airport and South Line|November 2016|None
+T7 Olympic Park Line|November 2016|134136
+T6 Carlingford Line|November 2016|44372
+T5 Cumberland Line|November 2016|482841
+T4 Eastern Suburbs and Illawarra Line|November 2016|5649968
+T3 Bankstown Line|November 2016|2329853
+T2 Leppington Line|November 2016|None
+T2 Inner West Line|November 2016|None
+T2 Airport, Inner West and South Line|November 2016|7170758
+T1 Western Line|November 2016|None
+Station Link|November 2016|None
+T1 Northern Line|November 2016|None
+T1 North Shore Line|November 2016|None
+T1 North Shore, Northern and Western Line|November 2016|11997585
+All Trains|October 2016|30106833
+Southern Highlands Line|October 2016|83432
+South Coast Line|October 2016|806510
+Hunter Line|October 2016|74008
+Central Coast Newcastle Line|October 2016|1568276
+Blue Mountains Line|October 2016|825881
+T9 Northern Line|October 2016|None
+T8 Airport and South Line|October 2016|None
+T7 Olympic Park Line|October 2016|147327
+T6 Carlingford Line|October 2016|42539
+T5 Cumberland Line|October 2016|474334
+T4 Eastern Suburbs and Illawarra Line|October 2016|5166207
+T3 Bankstown Line|October 2016|2293948
+T2 Leppington Line|October 2016|None
+T2 Inner West Line|October 2016|None
+T2 Airport, Inner West and South Line|October 2016|7032558
+T1 Western Line|October 2016|None
+Station Link|October 2016|None
+T1 Northern Line|October 2016|None
+T1 North Shore Line|October 2016|None
+T1 North Shore, Northern and Western Line|October 2016|11591813
+All Trains|September 2016|30648352
+Southern Highlands Line|September 2016|86001
+South Coast Line|September 2016|826616
+Hunter Line|September 2016|75015
+Central Coast Newcastle Line|September 2016|1617012
+Blue Mountains Line|September 2016|818796
+T9 Northern Line|September 2016|None
+T8 Airport and South Line|September 2016|None
+T7 Olympic Park Line|September 2016|130116
+T6 Carlingford Line|September 2016|44917
+T5 Cumberland Line|September 2016|485058
+T4 Eastern Suburbs and Illawarra Line|September 2016|5377844
+T3 Bankstown Line|September 2016|2291483
+T2 Leppington Line|September 2016|None
+T2 Inner West Line|September 2016|None
+T2 Airport, Inner West and South Line|September 2016|7092993
+T1 Western Line|September 2016|None
+Station Link|September 2016|None
+T1 Northern Line|September 2016|None
+T1 North Shore Line|September 2016|None
+T1 North Shore, Northern and Western Line|September 2016|11802501
+All Trains|August 2016|32393980
+Southern Highlands Line|August 2016|81538
+South Coast Line|August 2016|868924
+Hunter Line|August 2016|65471
+Central Coast Newcastle Line|August 2016|1682818
+Blue Mountains Line|August 2016|838713
+T9 Northern Line|August 2016|None
+T8 Airport and South Line|August 2016|None
+T7 Olympic Park Line|August 2016|155886
+T6 Carlingford Line|August 2016|51738
+T5 Cumberland Line|August 2016|514726
+T4 Eastern Suburbs and Illawarra Line|August 2016|5638982
+T3 Bankstown Line|August 2016|2419519
+T2 Leppington Line|August 2016|None
+T2 Inner West Line|August 2016|None
+T2 Airport, Inner West and South Line|August 2016|7420818
+T1 Western Line|August 2016|None
+Station Link|August 2016|None
+T1 Northern Line|August 2016|None
+T1 North Shore Line|August 2016|None
+T1 North Shore, Northern and Western Line|August 2016|12654847
+All Trains|July 2016|28819249
+Southern Highlands Line|July 2016|76969
+South Coast Line|July 2016|750032
+Hunter Line|July 2016|73568
+Central Coast Newcastle Line|July 2016|1566387
+Blue Mountains Line|July 2016|760806
+T9 Northern Line|July 2016|None
+T8 Airport and South Line|July 2016|None
+T7 Olympic Park Line|July 2016|152200
+T6 Carlingford Line|July 2016|38981
+T5 Cumberland Line|July 2016|450986
+T4 Eastern Suburbs and Illawarra Line|July 2016|4995609
+T3 Bankstown Line|July 2016|2150451
+T2 Leppington Line|July 2016|None
+T2 Inner West Line|July 2016|None
+T2 Airport, Inner West and South Line|July 2016|6769182
+T1 Western Line|July 2016|None
+Station Link|July 2016|None
+T1 Northern Line|July 2016|None
+T1 North Shore Line|July 2016|None
+T1 North Shore, Northern and Western Line|July 2016|11034078
+Sydney Trains|July 2016 to April 2019|969974460
+NSW Trainlink (Intercity)|July 2016 to April 2019|116457534
+Sydney Trains|April 2019|29460446
+NSW Trainlink (Intercity)|April 2019|3329694
+Sydney Trains|March 2019|32800539
+NSW Trainlink (Intercity)|March 2019|3729727
+Sydney Trains|February 2019|28931568
+NSW Trainlink (Intercity)|February 2019|3287196
+Sydney Trains|January 2019|26921793
+NSW Trainlink (Intercity)|January 2019|3003771
+Sydney Trains|December 2018|27168337
+NSW Trainlink (Intercity)|December 2018|2956119
+Sydney Trains|November 2018|31246288
+NSW Trainlink (Intercity)|November 2018|3557034
+Sydney Trains|October 2018|31032136
+NSW Trainlink (Intercity)|October 2018|3469514
+Sydney Trains|September 2018|29589291
+NSW Trainlink (Intercity)|September 2018|3432191
+Sydney Trains|August 2018|31929478
+NSW Trainlink (Intercity)|August 2018|3784322
+Sydney Trains|July 2018|29546791
+NSW Trainlink (Intercity)|July 2018|3506803
+Sydney Trains|June 2018|29261324
+NSW Trainlink (Intercity)|June 2018|3343021
+Sydney Trains|May 2018|32423181
+NSW Trainlink (Intercity)|May 2018|3899384
+Sydney Trains|April 2018|28052643
+NSW Trainlink (Intercity)|April 2018|3459523
+Sydney Trains|March 2018|31203680
+NSW Trainlink (Intercity)|March 2018|3763808
+Sydney Trains|February 2018|26701419
+NSW Trainlink (Intercity)|February 2018|3334672
+Sydney Trains|January 2018|25387194
+NSW Trainlink (Intercity)|January 2018|2799672
+Sydney Trains|December 2017|26432999
+NSW Trainlink (Intercity)|December 2017|3034890
+Sydney Trains|November 2017|29794000
+NSW Trainlink (Intercity)|November 2017|3663124
+Sydney Trains|October 2017|29360745
+NSW Trainlink (Intercity)|October 2017|3549489
+Sydney Trains|September 2017|28614170
+NSW Trainlink (Intercity)|September 2017|3453148
+Sydney Trains|August 2017|30572591
+NSW Trainlink (Intercity)|August 2017|3713016
+Sydney Trains|July 2017|27638909
+NSW Trainlink (Intercity)|July 2017|3431625
+Sydney Trains|June 2017|28251582
+NSW Trainlink (Intercity)|June 2017|3455288
+Sydney Trains|May 2017|30953558
+NSW Trainlink (Intercity)|May 2017|3909452
+Sydney Trains|April 2017|25454290
+NSW Trainlink (Intercity)|April 2017|3291439
+Sydney Trains|March 2017|30682314
+NSW Trainlink (Intercity)|March 2017|3884071
+Sydney Trains|February 2017|25553548
+NSW Trainlink (Intercity)|February 2017|3213488
+Sydney Trains|January 2017|23732070
+NSW Trainlink (Intercity)|January 2017|3003352
+Sydney Trains|December 2016|25046422
+NSW Trainlink (Intercity)|December 2016|3143162
+Sydney Trains|November 2016|27809513
+NSW Trainlink (Intercity)|November 2016|3508766
+Sydney Trains|October 2016|26748726
+NSW Trainlink (Intercity)|October 2016|3358107
+Sydney Trains|September 2016|27224912
+NSW Trainlink (Intercity)|September 2016|3423440
+Sydney Trains|August 2016|28856516
+NSW Trainlink (Intercity)|August 2016|3537464
+Sydney Trains|July 2016|25591487
+NSW Trainlink (Intercity)|July 2016|3227762
