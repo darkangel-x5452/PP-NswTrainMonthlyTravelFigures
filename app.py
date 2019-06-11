@@ -107,7 +107,7 @@ class NSWOpalTrainLine(Resource):
     def get(self, TRAIN_LINE, PERIOD):
         db = get_db()
         details_cur = db.execute(
-            'select TRAIN_LINE, PERIOD, COUNT from NSW_TRAIN_OPAL_TRIPS_JULY_2016_APRIL_2019 where (TRAIN_LINE like ? and PERIOD like ?) COLLATE NOCASE',
+            'select TRAIN_LINE, PERIOD, COUNT from NSW_TRAIN_OPAL_TRIPS_JULY_2016_APRIL_2019 where (TRAIN_LINE like ? and PERIOD = ?) COLLATE NOCASE',
             ["%" + TRAIN_LINE + "%", PERIOD])
         details = details_cur.fetchall()
 
