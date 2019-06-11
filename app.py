@@ -100,7 +100,7 @@ class NSWOpalTrainLine(Resource):
 
 
 @api.route('/all/<string:TRAIN_LINE>/<string:PERIOD>', methods=['GET'])
-class NSWOpalTrainLine(Resource):
+class NSWOpalTrainLinePeriod(Resource):
     @api.response(200, 'SUCCESSFUL: Contents successfully loaded')
     @api.response(204, 'NO CONTENT: No content in database')
     @api.doc(description='Retrieving all records from the database for selected train line and period.')
