@@ -47,7 +47,7 @@ class NSWOpalAll(Resource):
         return make_response(jsonify(return_values), 200)
 
 
-@api.route('/all/<string:PERIOD>', methods=['GET'])
+@api.route('/all/PERIOD/<string:PERIOD>', methods=['GET'])
 class NSWOpalPeriod(Resource):
     print('<------------ PERIOD i am here ------------>')
 
@@ -74,16 +74,18 @@ class NSWOpalPeriod(Resource):
         return make_response(jsonify(return_values), 200)
 
 
-@api.route('/all/<string:TRAIN_LINE>', methods=['GET'])
+@api.route('/all/TRAIN_LINE/<string:TRAIN_LINE>', methods=['GET'])
 class NSWOpalTrainLine(Resource):
+    print('<------------ TRAIN_LINE i am here ------------>')
+
     @api.response(200, 'SUCCESSFUL: Contents successfully loaded')
     @api.response(204, 'NO CONTENT: No content in database')
-    @api.doc(description='Retrieving all records from the database for selected train line.')
+    @api.doc(description='Retrieving all records from the database selected TRAIN_LINE.')
     def get(self, TRAIN_LINE):
         db = get_db()
         details_cur = db.execute(
-            'select TRAIN_LINE, PERIOD, COUNT from NSW_TRAIN_OPAL_TRIPS_JULY_2016_APRIL_2019 where TRAIN_LINE like ? COLLATE NOCASE',
-            ["%" + TRAIN_LINE + "%"])
+            'select TRAIN_LINE, PERIOD, COUNT from NSW_TRAIN_OPAL_TRIPS_JULY_2016_APRIL_2019 where TRAIN_LINE like ? '
+            'COLLATE NOCASE', ["%" + TRAIN_LINE + "%"])
         details = details_cur.fetchall()
 
         return_values = []
@@ -99,7 +101,7 @@ class NSWOpalTrainLine(Resource):
         return make_response(jsonify(return_values), 200)
 
 
-@api.route('/all/<string:TRAIN_LINE>/<string:PERIOD>', methods=['GET'])
+@api.route('/all/TRAIN_LINE/PERIOD/<string:TRAIN_LINE>/<string:PERIOD>', methods=['GET'])
 class NSWOpalTrainLinePeriod(Resource):
     @api.response(200, 'SUCCESSFUL: Contents successfully loaded')
     @api.response(204, 'NO CONTENT: No content in database')
