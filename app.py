@@ -46,8 +46,32 @@ class NSWOpalAll(Resource):
 
         return make_response(jsonify(return_values), 200)
 
+@api.route('/all/period/<string:PERIOD>', methods=['GET'])
+class NSWOpalPeriod(Resource):
+    print('<------------ PERIOD i am here ------------>')
+    @api.response(200, 'SUCCESSFUL: Contents successfully loaded')
+    @api.response(204, 'NO CONTENT: No content in database')
+    @api.doc(description='Retrieving all records from the database selected period.')
+    def get(self, PERIOD):
+        db = get_db()
+        details_cur = db.execute(
+            'select TRAIN_LINE, PERIOD, COUNT from NSW_TRAIN_OPAL_TRIPS_JULY_2016_APRIL_2019 where PERIOD like ? COLLATE NOCASE',
+            ["%" + PERIOD + "%"])
+        details = details_cur.fetchall()
 
-@api.route('/all/<string:TRAIN_LINE>', methods=['GET'])
+        return_values = []
+
+        for detail in details:
+            detail_dict = {}
+            detail_dict['TRAIN_LINE'] = detail['TRAIN_LINE']
+            detail_dict['PERIOD'] = detail['PERIOD']
+            detail_dict['COUNT'] = detail['COUNT']
+
+            return_values.append(detail_dict)
+
+        return make_response(jsonify(return_values), 200)
+
+@api.route('/all/trainline/<string:TRAIN_LINE>', methods=['GET'])
 class NSWOpalTrainLine(Resource):
     @api.response(200, 'SUCCESSFUL: Contents successfully loaded')
     @api.response(204, 'NO CONTENT: No content in database')
@@ -70,32 +94,6 @@ class NSWOpalTrainLine(Resource):
             return_values.append(detail_dict)
 
         return make_response(jsonify(return_values), 200)
-
-
-@api.route('/all/<string:PERIOD>', methods=['GET'])
-class NSWOpalOpal(Resource):
-    @api.response(200, 'SUCCESSFUL: Contents successfully loaded')
-    @api.response(204, 'NO CONTENT: No content in database')
-    @api.doc(description='Retrieving all records from the database selected period.')
-    def get(self, PERIOD):
-        db = get_db()
-        details_cur = db.execute(
-            'select TRAIN_LINE, PERIOD, COUNT from NSW_TRAIN_OPAL_TRIPS_JULY_2016_APRIL_2019 where PERIOD = ? COLLATE NOCASE',
-            [PERIOD])
-        details = details_cur.fetchall()
-
-        return_values = []
-
-        for detail in details:
-            detail_dict = {}
-            detail_dict['TRAIN_LINE'] = detail['TRAIN_LINE']
-            detail_dict['PERIOD'] = detail['PERIOD']
-            detail_dict['COUNT'] = detail['COUNT']
-
-            return_values.append(detail_dict)
-
-        return make_response(jsonify(return_values), 200)
-
 
 if __name__ == '__main__':
     app.run()
